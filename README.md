@@ -1,5 +1,5 @@
-# Forecasting Projects using Machine Learning Model
-**Machine Learning Projects and Dataset regarding sales and ecomeerce forecasting**
+# Machine Learning Projects
+**Machine Learning model projects and Dataset regarding sales and ecomeerce forecasting**
 
 
 ## 1. Sales Forecasting using Linear Regression Model -  [Store Sales](https://github.com/acamillemartin/forecasting_projects/blob/c42eb5f9186278b3785319aaa1657de57bcef529/Sales_Forecast_with_Linear_Regression_Model.ipynb)
