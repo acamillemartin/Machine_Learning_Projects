@@ -1,6 +1,6 @@
 # Iris Dataset Classification using Unsupervised Machine Learning
 
-#![Iris Flowers]()
+![Iris Flowers](https://github.com/acamillemartin/Machine_Learning_Projects/blob/main/Unsupervised%20ML/Images/Iris%20Flower.png)
 
 ## Overview
 
@@ -29,5 +29,3 @@ In this project, I have implemented the K-nearest neighbors algorithm to classif
 
 
 ## Visualization
-
-![K-nearest Neighbors Classification](https://github.com/[YourUsername]/[YourRepository]/blob/main/images/knn_classification.png)
