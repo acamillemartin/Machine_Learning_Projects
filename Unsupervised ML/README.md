@@ -29,3 +29,12 @@ In this project, I have implemented the K-nearest neighbors algorithm to classif
 
 
 ## Visualization
+
+Number of clusters used:
+![The Elbow Method](https://github.com/acamillemartin/Machine_Learning_Projects/blob/main/Unsupervised%20ML/Images/elbow%20method.png)
+
+K-Means Clustering
+![K-Means Clustering](https://github.com/acamillemartin/Machine_Learning_Projects/blob/main/Unsupervised%20ML/Images/k-means%20cluster.png)
+
+Scatter Matrix Plot
+![Dataset](https://github.com/acamillemartin/Machine_Learning_Projects/blob/main/Unsupervised%20ML/Images/scatter%20matrix%20plot.png)
